@@ -13,10 +13,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Nokx1z)
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Nokx1z">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nokx1z&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nokx1z&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+  
+  ![Nokx1z's Stats](https://github-readme-stats.vercel.app/api?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+  ![Nokx1z's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nokx1z&theme=tokyonight&hide_border=false)
+  ![Nokx1z's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
