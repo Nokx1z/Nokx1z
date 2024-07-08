@@ -10,11 +10,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enyellduarte)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Nokx1z)
 
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/Nokx1z" style="margin-right: 20px;">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nokx1z&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/ArisGuimera">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nokx1z&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <a href="https://github.com/Nokx1z" style="margin-right: 20px;">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nokx1z&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/ArisGuimera">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nokx1z&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+  </div>
 </div>
