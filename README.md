@@ -36,5 +36,6 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/739459464872198155)
 
 ### ⚙️ Mis Estadísticas en GitHub
-| ![Nokx1z's Stats](https://github-readme-stats.vercel.app/api?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![Nokx1z's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=6) |
+| ![Nokx1z's Stats](https://github-readme-stats.vercel.app/api?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z)](https://github.com/anuraghazra/github-readme-stats)
+ |
 |:---:|:---:|
