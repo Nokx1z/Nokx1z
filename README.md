@@ -7,7 +7,7 @@
 Soy un estudiante de Ingeniería Informática apasionado por la tecnología y la programación. Actualmente, estoy en el proceso de aprender y mejorar mis habilidades en diversas tecnologías.
 
 ## 🔧 Tecnologías que estoy aprendiendo
-- **Lenguajes de Programación:** C#, JavaScript
+- **Lenguajes de Programación:** C#, JavaScript, TypeScript
 - **Tecnologías Web:** HTML, CSS
 - **Frameworks y Librerías:** Angular, Nest.js, Node.js, Tailwind, .NET
 - **Herramientas:** Notion, Git, Jira, Figma
