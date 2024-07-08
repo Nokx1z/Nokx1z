@@ -1,5 +1,6 @@
 ### ¡Hola mundo! 👋🏾 Soy Enyell, encantado de verte por aquí.
-![Portada de GitHub](https://github.com/Nokx1z/Nokx1z/assets/66167911/f63e1468-8701-4536-9753-873bdf996c18)
+![Portada de GitHub (1)](https://github.com/Nokx1z/Nokx1z/assets/66167911/81202090-afcf-4dbf-b1ef-f7a535077f9e)
+
 <!--
 **Nokx1z/Nokx1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
