@@ -15,4 +15,5 @@
 ### ⚙️ &nbsp;GitHub Analytics
   
   ![Nokx1z's Stats](https://github-readme-stats.vercel.app/api?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+  ![Nokx1z's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nokx1z&theme=tokyonight&hide_border=false)
   ![Nokx1z's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
