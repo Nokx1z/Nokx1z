@@ -41,3 +41,10 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
   <img src="https://github-readme-stats.vercel.app/api?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Nokx1z's GitHub Stats" style="width: 50%; max-height: 200px; border: 1px solid #fff;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&theme=tokyonight&show_icons=true&layout=compact&langs_count=6" width="45%" style="max-height: 200px; border: none;" alt="Nokx1z's Top Languages">
 </div>
+
+<p align="center">
+  <a href="https://github.com/Nokx1z">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nokx1z&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max-height: 200px; border: 1px solid #fff;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&layout=compact&langs_count=6&theme=tokyonight" style="max-height: 200px;">
+  </a>
+</p>
