@@ -16,7 +16,6 @@ Soy un estudiante de Ingeniería Informática apasionado por la tecnología y la
 
   ## 📚 Educación
 Estoy cursando mi carrera de Ingeniería Informática, donde he tenido la oportunidad de adquirir conocimientos sólidos en diversas áreas de la tecnología y el desarrollo de software.
-## Redes Sociales
 
 ## 💼 Experiencia
 Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos académicos y personales que me han permitido aplicar lo aprendido y seguir creciendo.
@@ -34,6 +33,7 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Nokx1z)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@nokx1z)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/739459464872198155)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/tu_usuario)
 
 ### ⚙️ Mis Estadísticas en GitHub
 
