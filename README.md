@@ -14,7 +14,7 @@ Soy un estudiante de Ingeniería Informática apasionado por la tecnología y la
 - **Bases de Datos:** PostgreSQL
 - **Cloud:** AWS
 
-  ## 📚 Educación
+## 📚 Educación
 Estoy cursando mi carrera de Ingeniería Informática, donde he tenido la oportunidad de adquirir conocimientos sólidos en diversas áreas de la tecnología y el desarrollo de software.
 
 ## 💼 Experiencia
