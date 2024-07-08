@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Blue   White Modern Business Facebook Cover](https://github.com/Nokx1z/Nokx1z/assets/66167911/c2e2efc8-098e-4f3d-ace2-d49963149f25)
 <!--
 **Nokx1z/Nokx1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
