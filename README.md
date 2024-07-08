@@ -4,26 +4,11 @@
 <a href="https://www.instagram.com/nokx1z" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="25" height="25"></a>
 <a href="https://www.linkedin.com/in/enyellduarte" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="25" height="25"></a>
 ![Portada de GitHub (1)](https://github.com/Nokx1z/Nokx1z/assets/66167911/81202090-afcf-4dbf-b1ef-f7a535077f9e)
-
-<a href="https://twitter.com/Nokx1z" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/x--v1.png" alt="X" width="25" height="25">
-</a> X
-
-<a href="https://www.twitch.tv/nokx1z" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/twitch--v1.png" alt="Twitch" width="25" height="25">
-</a> Twitch
-
-<a href="https://www.instagram.com/nokx1z" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="25" height="25">
-</a> Instagram
-
-<a href="https://www.linkedin.com/in/enyellduarte" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="25" height="25">
-</a> LinkedIn
-
-<a href="https://www.youtube.com/nokx1z" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="25" height="25">
-</a> YouTube
+- [<img src="https://img.icons8.com/color/48/000000/x--v1.png" alt="X" width="25" height="25"/> X](https://twitter.com/Nokx1z)
+- [<img src="https://img.icons8.com/color/48/000000/twitch--v1.png" alt="Twitch" width="25" height="25"/> Twitch](https://www.twitch.tv/nokx1z)
+- [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="25" height="25"/> Instagram](https://www.instagram.com/nokx1z)
+- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="25" height="25"/> LinkedIn](https://www.linkedin.com/in/enyellduarte)
+- [<img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="25" height="25"/> YouTube](https://www.youtube.com/nokx1z)
 <!--
 **Nokx1z/Nokx1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
