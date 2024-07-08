@@ -36,7 +36,13 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/739459464872198155)
 
 ### ⚙️ Mis Estadísticas en GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="45%" style="max-height: 200px;" alt="Nokx1z's Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=6" width="45%" style="max-height: 200px;" alt="Nokx1z's Top Languages">
-</div>
+<table>
+  <tr>
+    <td align="center" style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Nokx1z's Stats">
+    </td>
+    <td align="center" style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=6" alt="Nokx1z's Top Languages">
+    </td>
+  </tr>
+</table>
