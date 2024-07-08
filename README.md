@@ -4,6 +4,11 @@
 <a href="https://www.instagram.com/nokx1z" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="25" height="25"></a>
 <a href="https://www.linkedin.com/in/enyellduarte" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="25" height="25"></a>
 ![Portada de GitHub (1)](https://github.com/Nokx1z/Nokx1z/assets/66167911/81202090-afcf-4dbf-b1ef-f7a535077f9e)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Nokx1z)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/tu_usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tu_usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/tu_usuario)
 <!--
 **Nokx1z/Nokx1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
