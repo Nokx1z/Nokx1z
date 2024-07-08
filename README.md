@@ -35,6 +35,6 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@nokx1z)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/739459464872198155)
 
-### ⚙️ &nbsp;GitHub Analytics
-| ![Nokx1z's Stats](https://github-readme-stats.vercel.app/api?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![Nokx1z's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) |
-|---|---|
+### ⚙️ Mis Estadísticas en GitHub
+| ![Nokx1z's Stats](https://github-readme-stats.vercel.app/api?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![Nokx1z's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=6) |
+|:---:|:---:|
