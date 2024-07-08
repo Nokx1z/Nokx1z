@@ -10,13 +10,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enyellduarte)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Nokx1z)
 
-<div align="center">
-  <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/Nokx1z" style="margin-right: 20px;">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nokx1z&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://github.com/Nokx1z">
-      <img style="display: flex; justify-content: center;" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nokx1z&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Nokx1z" style="margin-right: 20px;">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nokx1z&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Nokx1z">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nokx1z&layout=compact&langs_count=8&theme=algolia"/>
+      </a>
+    </td>
+  </tr>
