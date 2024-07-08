@@ -1,8 +1,9 @@
 <div align="center">
-<h2 align="center">¡Hola mundo!👋🏾Soy Enyell, encantado de verte por aquí.</h1>
+  <h2 align="center">¡Hola mundo!👋🏾Soy Enyell, encantado de verte por aquí.</h2>
 </div>
 
 ![Portada de GitHub (2)](https://github.com/Nokx1z/Nokx1z/assets/66167911/ba84eb5f-a474-4fec-bf0f-73e0e56cda98)
+
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Nokx1z)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nokx1z)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nokx1z)
