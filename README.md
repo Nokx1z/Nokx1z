@@ -10,9 +10,11 @@ Soy un estudiante de Ingeniería Informática apasionado por la tecnología y la
 - **Lenguajes de Programación:** C#, JavaScript, TypeScript
 - **Tecnologías Web:** HTML, CSS
 - **Frameworks y Librerías:** Angular, Nest.js, Node.js, Tailwind, .NET
-- **Herramientas:** Notion, Git, Jira, Figma
-- **Bases de Datos:** PostgreSQL
+- **Herramientas:** Git, Jira
+- **Diseño y Productividad:** Figma, Notion
+- **Bases de Datos:** PostgreSQL, MySQL
 - **Cloud:** AWS
+- **Contenedores:** Docker
 
 ## 📚 Educación
 Estoy cursando mi carrera de Ingeniería Informática, donde he tenido la oportunidad de adquirir conocimientos sólidos en diversas áreas de la tecnología y el desarrollo de software.
