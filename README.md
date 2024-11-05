@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">konnichiwa!👋🏾Soy Enyell, encantado de verte por aquí.</h2>
+  <h2 align="center">¡Hola!👋🏾Soy Enyell, encantado de verte por aquí.</h2>
 </div>
 
 ![Portada de GitHub](https://github.com/Nokx1z/Nokx1z/assets/66167911/ba84eb5f-a474-4fec-bf0f-73e0e56cda98)
