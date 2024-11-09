@@ -2,7 +2,7 @@
   <h3>¡Hola!👋🏾Soy Enyell, encantado de verte por aquí.</h3>
 </div>
 
-Soy un estudiante de Ingeniería Informática apasionado por la tecnología y la programación. Actualmente, estoy en el proceso de aprender y mejorar mis habilidades en diversas tecnologías.
+Estudiante de Ingeniería Informática.
 
 ## 🔧 Tecnologías que estoy aprendiendo
 - **Lenguajes de Programación:** C#, JavaScript, TypeScript
