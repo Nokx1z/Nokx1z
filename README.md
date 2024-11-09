@@ -2,7 +2,7 @@
   <h2 align="center">¡Hola!👋🏾Soy Enyell, encantado de verte por aquí.</h2>
 </div>
 
-
+<img src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif" alt="Animación divertida" width="300" height="200">
 
 Soy un estudiante de Ingeniería Informática apasionado por la tecnología y la programación. Actualmente, estoy en el proceso de aprender y mejorar mis habilidades en diversas tecnologías.
 
