@@ -3,7 +3,7 @@
 </div>
 
 <div style="width: 100%;">
-  <img src="https://i.pinimg.com/originals/9d/1f/82/9d1f82cc324e498dd5127a6ed0296dac.gif" alt="Animação divertida">
+  <img src="https://i.pinimg.com/originals/cc/85/30/cc8530a1418e2d94c35590e6543a3a22.gif" alt="Animación divertida">
 </div>
 
 Soy un estudiante de Ingeniería Informática apasionado por la tecnología y la programación. Actualmente, estoy en el proceso de aprender y mejorar mis habilidades en diversas tecnologías.
