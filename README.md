@@ -2,7 +2,7 @@
   <h2 align="center">¡Hola!👋🏾Soy Enyell, encantado de verte por aquí.</h2>
 </div>
 
-![Portada de GitHub](https://github.com/Nokx1z/Nokx1z/assets/66167911/ba84eb5f-a474-4fec-bf0f-73e0e56cda98)
+
 
 Soy un estudiante de Ingeniería Informática apasionado por la tecnología y la programación. Actualmente, estoy en el proceso de aprender y mejorar mis habilidades en diversas tecnologías.
 
