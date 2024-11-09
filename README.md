@@ -5,6 +5,7 @@
 <div style="width: 100%;">
   <img src="https://i.pinimg.com/originals/ae/52/d9/ae52d968e7d8117170d2eeff6245ca5c.gif" alt="Animación divertida">
 </div>
+
 Soy un estudiante de Ingeniería Informática apasionado por la tecnología y la programación. Actualmente, estoy en el proceso de aprender y mejorar mis habilidades en diversas tecnologías.
 
 ## 🔧 Tecnologías que estoy aprendiendo
