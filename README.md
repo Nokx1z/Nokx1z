@@ -4,11 +4,6 @@
 
 </div>
 
-<div style="width: 500px;">
-
-  <img src="https://i.pinimg.com/originals/70/b3/97/70b3974cc59944e27064bea205cc7649.gif" alt="Animación divertida">
-
-</div>
 Estudiante de Ingeniería Informática.
 
 ## 🔧 Tecnologías que estoy aprendiendo
