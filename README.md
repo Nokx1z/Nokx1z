@@ -6,7 +6,7 @@
 
 <div style="width: 100%;">
 
-  <img src="https://i.pinimg.com/originals/70/b3/97/70b3974cc59944e27064bea205cc7649.gif" alt="Animación divertida" height="50%">
+  <img src="https://i.pinimg.com/originals/70/b3/97/70b3974cc59944e27064bea205cc7649.gif" alt="Animación divertida" height="100%">
 
 </div>
 Estudiante de Ingeniería Informática.
