@@ -42,6 +42,6 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
 <p align="center">
   <a href="https://github.com/Nokx1z">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nokx1z&theme=dark&show_icons=true&hide_border=true&count_private=true%22%20alt=%22Nokx1z%27s%20GitHub%20Stats" style="max-height: 200px; border: 1px solid #fff;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&layout=compact&langs_count=6&theme=tokyonight" style="max-height: 200px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Nokx1z's GitHub Stats" style="max-height: 200px;">
   </a>
 </p>
