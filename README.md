@@ -7,7 +7,7 @@
 Estudiante de Ingeniería Informática.
 
 ## 🔧 Tecnologías que estoy aprendiendo
-- **Lenguajes de Programación:** C#, JavaScript, TypeScript, PHP
+- **Lenguajes de Programación:** C#, JavaScript, TypeScript, PHP, GO
 - **Tecnologías Web:** HTML, CSS
 - **Frameworks y Librerías:** Angular, Nest.js, Node.js, Tailwind, .NET
 - **Herramientas:** Git, Jira
