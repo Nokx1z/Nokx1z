@@ -70,16 +70,16 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
   <a href="https://github.com/Nokx1z">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nokx1z&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Nokx1z's GitHub Stats" style="max-height: 200px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Nokx1z's GitHub Stats" style="max-height: 200px;">
-  </a>
-    <img 
-    src="https://komarev.com/ghpvc/?username=Nokx1z&label=Profile+Views&color=000000&style=for-the-badge&labelColor=000000&textColor=ff0000" 
-    alt="Nokx1z"
-    title="Visitas a mi perfil" 
-  />
 </p>
 
 <p align="right">
   <img 
+    src="https://komarev.com/ghpvc/?username=Nokx1z&label=Profile+Views&color=000000&style=for-the-badge&labelColor=000000&textColor=ff0000" 
+    alt="Nokx1z"
+    title="Visitas a mi perfil" 
+  />
+    </a>
+    <img 
     src="https://komarev.com/ghpvc/?username=Nokx1z&label=Profile+Views&color=000000&style=for-the-badge&labelColor=000000&textColor=ff0000" 
     alt="Nokx1z"
     title="Visitas a mi perfil" 
