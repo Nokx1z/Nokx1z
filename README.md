@@ -80,3 +80,4 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
     title="Visitas a mi perfil" 
   />
 </p>
+<a href="https://wakatime.com/@4b1316ad-5efe-4c93-b24c-4d2fe3ca2504"><img src="https://wakatime.com/badge/user/4b1316ad-5efe-4c93-b24c-4d2fe3ca2504.svg" alt="Total time coded since May 13 2025" /></a>
