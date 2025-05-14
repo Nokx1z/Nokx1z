@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=¡Hola%20Nokx1z!&fontSize=40&fontAlignY=35)
 <div>
 
   <h3>¡Hola!👋🏾Soy Nokx1z, encantado de verte por aquí.</h3>
