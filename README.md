@@ -71,6 +71,11 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nokx1z&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Nokx1z's GitHub Stats" style="max-height: 200px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Nokx1z's GitHub Stats" style="max-height: 200px;">
   </a>
+    <img 
+    src="https://komarev.com/ghpvc/?username=Nokx1z&label=Profile+Views&color=000000&style=for-the-badge&labelColor=000000&textColor=ff0000" 
+    alt="Nokx1z"
+    title="Visitas a mi perfil" 
+  />
 </p>
 
 <p align="right">
@@ -79,13 +84,4 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
     alt="Nokx1z"
     title="Visitas a mi perfil" 
   />
-</p>
-<p align="left">
-  <a href="https://wakatime.com/@4b1316ad-5efe-4c93-b24c-4d2fe3ca2504">
-    <img 
-      src="https://wakatime.com/badge/user/4b1316ad-5efe-4c93-b24c-4d2fe3ca2504.svg?style=for-the-badge&color=000000&labelColor=000000&textColor=ff0000" 
-      alt="Total time coded since May 13 2025" 
-      title="Tiempo total de codificación en WakaTime"
-    />
-  </a>
 </p>
