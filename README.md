@@ -72,9 +72,16 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Nokx1z's GitHub Stats" style="max-height: 200px;">
 </p>
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <a href="https://wakatime.com/@4b1316ad-5efe-4c93-b24c-4d2fe3ca2504">
-    <img src="https://wakatime.com/badge/user/4b1316ad-5efe-4c93-b24c-4d2fe3ca2504.svg?style=for-the-badge&color=000000&labelColor=000000&textColor=ff0000" alt="WakaTime"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Nokx1z&label=Profile+Views&color=000000&style=for-the-badge&labelColor=000000&textColor=ff0000" alt="Profile Views"/>
+<div style="width: 100%; margin: 0 auto; overflow: hidden;">
+  <!-- Badge izquierdo pegado al borde -->
+  <div style="float: left;">
+    <a href="https://wakatime.com/@4b1316ad-5efe-4c93-b24c-4d2fe3ca2504">
+      <img src="https://wakatime.com/badge/user/4b1316ad-5efe-4c93-b24c-4d2fe3ca2504.svg?style=for-the-badge&color=000000&labelColor=000000&textColor=ff0000" alt="WakaTime"/>
+    </a>
+  </div>
+  
+  <!-- Badge derecho pegado al borde -->
+  <div style="float: right;">
+    <img src="https://komarev.com/ghpvc/?username=Nokx1z&label=Profile+Views&color=000000&style=for-the-badge&labelColor=000000&textColor=ff0000" alt="Profile Views"/>
+  </div>
 </div>
