@@ -78,10 +78,4 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
     alt="Nokx1z"
     title="Visitas a mi perfil" 
   />
-    </a>
-    <img 
-    src="https://komarev.com/ghpvc/?username=Nokx1z&label=Profile+Views&color=000000&style=for-the-badge&labelColor=000000&textColor=ff0000" 
-    alt="Nokx1z"
-    title="Visitas a mi perfil" 
-  />
 </p>
