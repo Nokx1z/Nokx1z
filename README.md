@@ -6,8 +6,6 @@
 
 ### Estudiante de Ingeniería Informática | Apasionado por el desarrollo de software
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nokx1z&color=blue&style=flat-square)
-
 ## 🔧 Stack Tecnológico
 
 ### Lenguajes de Programación
@@ -74,3 +72,6 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Nokx1z's GitHub Stats" style="max-height: 200px;">
   </a>
 </p>
+<P align="right">
+![Profile Views](https://komarev.com/ghpvc/?username=Nokx1z&color=blue&style=flat-square)
+</P>
