@@ -3,7 +3,7 @@
   <h3>¡Hola!👋🏾Soy Nokx1z, encantado de verte por aquí.</h3>
 </div>
 
-### Estudiante de Ingeniería Informática | Apasionado por el desarrollo de software
+### Estudiante de Ingeniería Informática 
 
 ## 🔧 Stack Tecnológico
 
