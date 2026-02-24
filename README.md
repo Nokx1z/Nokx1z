@@ -60,13 +60,7 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/739459464872198155)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nokx1z)
 
-### ⚙️ Mis Estadísticas en GitHub
-
-<p align="center">
-  <a href="https://github.com/Nokx1z">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nokx1z&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Nokx1z's GitHub Stats" style="max-height: 200px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokx1z&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Nokx1z's GitHub Stats" style="max-height: 200px;">
-</p>
+### ⚙️ Mis Estadísticas 
 
 <p align="center">
   <a href="https://wakatime.com/@4b1316ad-5efe-4c93-b24c-4d2fe3ca2504" style="margin-right: 30px;">
