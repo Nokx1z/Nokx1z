@@ -62,7 +62,7 @@ Aunque aún no tengo experiencia profesional, he trabajado en varios proyectos a
 
 ### ⚙️ Mis Estadísticas 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=nokx1z&theme=tokyonight&hide_border=true" alt="nokx1z's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=Nokx1z&theme=react&hide_border=true" alt="Nokx1z's GitHub Stats" />
 </p>
 <p align="center">
   <a href="https://wakatime.com/@4b1316ad-5efe-4c93-b24c-4d2fe3ca2504" style="margin-right: 30px;">
