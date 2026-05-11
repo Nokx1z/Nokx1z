@@ -27,7 +27,7 @@ Actualmente en formación en Ingeniería Informática, con base previa como TSU 
 
 ### Stack
 
-#### Backend
+#### Backend & Core
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -41,6 +41,7 @@ Actualmente en formación en Ingeniería Informática, con base previa como TSU 
 #### Infraestructura 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -52,6 +53,11 @@ En desarrollo de sistemas enfocados en:
 - autenticación y autorización
 - arquitectura modular
 - herramientas de desarrollo
+
+---
+
+### Workflow & Terminal
+Entusiasta de entornos **Linux** y flujos de trabajo *terminal-centric*.
 
 ---
 
